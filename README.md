@@ -39,4 +39,4 @@ Oyun başlatıldığında kullanıcı yukarıda ki ekran ile karşılanıyor. Oy
 - Renkleri eşleştirdikçe kareler kaybolur, yeni bir eşleştirme yapmak kolaylaşır. Bu da oyuncuyu teşvik eder ve hedefe doğru ilerleme açısından oyuncuyu tatmin eder.
 
 ![Renk Eşleme Bölümü](/img/Resim10.jpg)
-- Tüm renkler eşleştirildiğinde oyun tamamlanır.
+- Tüm renkler eşleştirildiğinde oyun tamamlanır.https://youtu.be/MNe_eCfzseQ
